@@ -1,18 +1,15 @@
 {
   "name": "zero-based-d100",
   "title": "Zero-Based D100",
-  "description": "Konvertiert alle 1d100-Würfe von 1-100 auf 0-99.",
+  "description": "Konvertiert alle d100-Würfe von 1–100 auf 0–99.",
   "version": "1.0.0",
   "minimumCoreVersion": "13",
   "compatibleCoreVersion": "13",
-  "author": "Tallar & GPT-5",
+  "author": "tiloma",
   "scripts": [
     "scripts/zero-d100.js"
   ],
-  "esmodules": [],
-  "styles": [],
-  "packs": [],
-  "manifest": "",
-  "download": "",
+  "manifest": "https://raw.githubusercontent.com/tiloma/zero-based-d100/main/module.json",
+  "download": "https://github.com/tiloma/zero-based-d100/archive/refs/tags/v1.0.0.zip",
   "license": "MIT"
 }
