@@ -1,0 +1,18 @@
+{
+  "name": "zero-based-d100",
+  "title": "Zero-Based D100",
+  "description": "Konvertiert alle 1d100-Würfe von 1-100 auf 0-99.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "13",
+  "compatibleCoreVersion": "13",
+  "author": "Tallar & GPT-5",
+  "scripts": [
+    "scripts/zero-d100.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "packs": [],
+  "manifest": "",
+  "download": "",
+  "license": "MIT"
+}
